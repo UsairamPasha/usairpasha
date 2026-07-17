@@ -1,95 +1,133 @@
-# Hi there, I'm Muhammad Usairam Pasha 👋
+# 👋 Hi, I'm Muhammad Usairam Pasha
 
-### Python Backend Developer | Django | AI & Machine Learning Enthusiast
+🎓 BS Computer Science Student
 
-I'm a Computer Science student at **Ibadat International University** with a passion for building intelligent web applications using **Python, Django, AI, and Machine Learning**.
+💻 Python Backend Developer
 
-I'm currently focused on backend development, AI integration, and automation projects while continuously improving my software engineering skills.
+🤖 AI & Machine Learning Enthusiast
 
----
-
-##  Currently Working On
-
-- 🏥 BillPilot AI – Medical Billing Automation
-- 🤖 Jarvis AI Assistant
-- 📝 AI-Based IELTS Examination Platform
+🇵🇰 Based in Pakistan
 
 ---
 
-##  Tech Stack
+# 🚀 About Me
 
-**Languages**
+I enjoy building web applications, AI-powered systems, and backend solutions using Python. My interests include Artificial Intelligence, Machine Learning, Django, Flask, REST APIs, and modern web development.
+
+Currently, I am expanding my skills by building AI applications and healthcare automation projects while continuously improving my backend development expertise.
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
 - Python
 - JavaScript
-- HTML
-- CSS
+- HTML5
+- CSS3
+- SQL
 
-**Backend**
+### Backend
+
 - Django
 - Django REST Framework
-- REST APIs
+- Flask
 
-**Frontend**
+### Frontend
+
 - Angular
 - Tailwind CSS
-- Bootstrap
 
-**Databases**
+### Database
+
 - PostgreSQL
-- MySQL
 - SQLite
 
-**AI & Machine Learning**
-- Scikit-learn
-- Pandas
-- NumPy
-- BERT
-- Transformers
-- Hugging Face
+### AI / Machine Learning
 
-**Tools**
+- Hugging Face Transformers
+- BERT
+- Scikit-learn
+- Stable Diffusion
+- OpenCV
+
+### Tools
+
 - Git
 - GitHub
-- VS Code
 - Postman
-- Redis
-- Celery
+- VS Code
 
 ---
 
-##  Featured Projects
+# 📂 Featured Projects
 
-- 📝 AI-Based IELTS Examination Platform
-- 🎨 AI Text-to-Image Generation Platform
-- 🏥 BillPilot AI
+## 🎓 IELTS AI Platform
+
+AI-powered IELTS preparation platform with automated essay grading, speaking evaluation, mock tests, analytics, and training modules.
+
+**Tech Stack**
+
+Django • Angular • PostgreSQL • BERT • Machine Learning
+
+---
+
+## 🎨 AI Text-to-Image Generator
+
+Text-to-image generation platform with Stable Diffusion fine-tuning, secure authentication, and image generation dashboard.
+
+**Tech Stack**
+
+Django • Angular • Stable Diffusion • LoRA
+
+---
+
+## 👥 Recruitment Management System
+
+Recruitment platform for managing candidates, hiring workflows, and job applications.
+
+**Tech Stack**
+
+Flask • SQLite
+
+---
+
+## 🎉 Event Management System
+
+Web application for managing events, participants, and registrations.
+
+**Tech Stack**
+
+Flask • SQLite
+
+---
+
+## 🗳️ Digital Voting Management System
+
+Secure voting platform for managing elections, candidates, and voters.
+
+**Tech Stack**
+
+Flask • SQLite
+
+---
+
+# 🌱 Currently Working On
+
+- 🏥 Medical Billing Automation Platform
 - 🤖 Jarvis AI Assistant
-- 👨‍💼 Recruitment Management System
-- 🎉 Event Management System
+- 📚 Advanced Django Development
+- 🧠 AI & Machine Learning
 
 ---
 
-##  Currently Learning
+# 📫 Connect With Me
 
-- Advanced Django
-- System Design
-- AI Automation
-- Medical Billing Technology
-- Cloud Deployment
+📧 Email: **Shubanapasha@gmail.com**
+
+🐙 GitHub: **https://github.com/UsairamPasha**
 
 ---
 
-##  Career Goal
-
-To become a skilled Backend & AI Engineer building scalable and intelligent software solutions that solve real-world problems.
-
----
-
-##  Contact
-
-📧 **Email:** Shubanapasha@gmail.com
-
-📍 **Location:** Pakpattan, Punjab, Pakistan
-
----
-
-⭐ *Thanks for visiting my GitHub profile! Feel free to explore my projects and connect with me.*
+⭐ Thank you for visiting my GitHub profile!
